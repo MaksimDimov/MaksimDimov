@@ -18,7 +18,7 @@ Here are some of the skills that I specialize in:
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logoColor=black&color=EBEB23"/>&nbsp;
-  <img src="https://img.shields.io/badge/c#-informational?style=for-the-badge&logoColor=black&color=EBEB23"/>&nbsp;
+  <img src="https://img.shields.io/badge/c%23-informational?style=for-the-badge&logoColor=black&color=EBEB23"/>&nbsp;
   <img src="https://img.shields.io/badge/code-typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=2aa889")/>&nbsp;
   <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=2aa889")/>&nbsp;
   <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2aa889")/>&nbsp;
