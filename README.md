@@ -22,6 +22,8 @@ Here are some of the skills that I specialize in:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaksimDimov&layout=compact&theme=dark)
 
+[![Activity graph](https://github-readme-activity-graph.vercel.app/graph?username=MaksimDimov&theme=gotham&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## Connect with Me
 
 You can connect with me on various platforms:
