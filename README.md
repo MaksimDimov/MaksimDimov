@@ -19,9 +19,9 @@ Here are some of the skills that I specialize in:
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logoColor=black&color=EBEB23"/>&nbsp;
   <img src="https://img.shields.io/badge/c%23-informational?style=for-the-badge&logoColor=black&color=D821DE"/>&nbsp;
+   <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logoColor=black&color=43E8EE"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS-informational?style=for-the-badge&logoColor=black&color=4121DE"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-react-informational?style=for-the-badge&logo=react&logoColor=white&color=2aa889")/>&nbsp;
-  <img src="https://img.shields.io/badge/code-c%23-informational?style=for-the-badge&logo=csharp&logoColor=white&color=2aa889")/>&nbsp;
+  <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logoColor=black&color=E64444"/>&nbsp;
   <img src="https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=coffeescript&logoColor=white&color=2aa889")/>&nbsp;
   <img src="https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=2aa889")/>&nbsp;
   <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889")/>&nbsp;
