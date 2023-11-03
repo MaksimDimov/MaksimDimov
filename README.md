@@ -16,8 +16,10 @@ Here are some of the skills that I specialize in:
 - Web Development: HTML, CSS, React, Node.js;
 - Other Skills: Git;
 
- <p align="center">
+ <p align="left">
   <img alt="Static Badge" src="https://img.shields.io/badge/javascript-informational%3Fstyle%3Djavascript%26%26logoColor%3Dblackcolor%3Dffc924%22">
+   <img alt="Static Badge" src="https://img.shields.io/badge/C%23-informational%3Fstyle%3DC%23%26%26logoColor%3Dblackcolor%3Dffc924%22">
+
 </p>
 
 ## Statistics
