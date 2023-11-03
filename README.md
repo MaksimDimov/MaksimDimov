@@ -22,12 +22,6 @@ Here are some of the skills that I specialize in:
    <img src="https://img.shields.io/badge/React-informational?style=for-the-badge&logoColor=black&color=43E8EE"/>&nbsp;
   <img src="https://img.shields.io/badge/CSS-informational?style=for-the-badge&logoColor=black&color=4121DE"/>&nbsp;
   <img src="https://img.shields.io/badge/HTML-informational?style=for-the-badge&logoColor=black&color=E64444"/>&nbsp;
-  <img src="https://img.shields.io/badge/code-java-informational?style=for-the-badge&logo=coffeescript&logoColor=white&color=2aa889")/>&nbsp;
-  <img src="https://img.shields.io/badge/code-python-informational?style=for-the-badge&logo=python&logoColor=white&color=2aa889")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-html-informational?style=for-the-badge&logo=html5&logoColor=white&color=2aa889")/>&nbsp;
-  <img src="https://img.shields.io/badge/web-css-informational?style=for-the-badge&logo=css3&logoColor=white&color=2aa889")/>&nbsp;
-  <img src="https://img.shields.io/badge/db-mysql-informational?style=for-the-badge&logo=mysql&logoColor=white&color=2aa889")/>&nbsp;
-  <img src="https://img.shields.io/badge/db-firebase-informational?style=for-the-badge&logo=firebase&logoColor=white&color=2aa889")/>
 </p>
 
 ## Statistics
