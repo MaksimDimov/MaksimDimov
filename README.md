@@ -1,11 +1,8 @@
 ### Hi there 👋
 
-<!--
-**MaksimDimov/MaksimDimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # Welcome to MaksimDimov's GitHub Page
 
-![Banner Image](insert_image_url_here)  <!-- You can add a banner image here -->
+![](./images/1c-LinkedIn-Banner-Personal-design-1.png)
   
 ## About Me
 
