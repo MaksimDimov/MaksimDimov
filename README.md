@@ -17,8 +17,7 @@ Here are some of the skills that I specialize in:
 - Other Skills: Git;
 
  <p align="center">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Javascript">
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/javascript-informational%3Fstyle%3Djavascript%26%26logoColor%3Dblackcolor%3Dffc924%22">
 </p>
 
 ## Statistics
