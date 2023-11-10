@@ -19,6 +19,7 @@ Here are some of the skills that I specialize in:
 - Programming Languages: JavaScript, C#;
 - Web Development: HTML, CSS, React, Node.js;
 - Other Skills: Git;
+- Soft skills: experience in team work and problem solving, knowledge of 4 languages: English, Russian, Ukrainian, Bulgarian.
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-informational?style=for-the-badge&logoColor=black&color=EBEB23"/>&nbsp;
